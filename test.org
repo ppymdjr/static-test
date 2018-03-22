@@ -1,3 +1,4 @@
+#+STARTUP: showall
 * Test ORG file
 
 This is an amazing test 'org-mode' file.
