@@ -1,6 +1,6 @@
 * Test ORG file
 
-This is a test 'org-mode' file.
+This is an amazing test 'org-mode' file.
 
 I seem to be able to edit this directly from the web interface, which is cool (and what I wanted).
 
