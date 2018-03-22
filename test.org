@@ -21,3 +21,7 @@ I should try images
        x
        (* x (fact (- x 1)))))
 #+END_SRC
+
+* iOS Editing
+
+I can even edit thus from iOS, which is nice. 
