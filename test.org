@@ -1,0 +1,4 @@
+* Test ORG file
+
+This is a test 'org-mode' file.
+
