@@ -3,3 +3,14 @@
 This is a test 'org-mode' file.
 
 I seem to be able to edit this directly from the web interface, which is cool (and what I wanted).
+
+Do tables work?
+
+| one                                      | two  | thre |
+|------------------------------------------+------+------|
+| another cell with more information in it | blah |      |
+
+- bulleted lists?
+- with several items?
+
+I should try images
