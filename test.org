@@ -14,3 +14,10 @@ Do tables work?
 - with several items?
 
 I should try images
+
+#+BEGIN_SRC lisp
+(defun factorial (x)
+   (if (< x 3)
+       x
+       (* x (fact (- x 1)))))
+#+END_SRC
